@@ -1,0 +1,6 @@
+ renderhint NormalAndSpecMapped
+ texture0 tat22_palm09
+ texture1 tat22_palm09_n
+ #texture2 tat22_palm09_s
+ #texture3 tat22_palm09_r
+ #texture4 tat22_palm09_h
